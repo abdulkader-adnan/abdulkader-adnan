@@ -41,7 +41,6 @@ and love exploring new technologies and security tools.
 #### 🌐 Networking & Security
 <div>
   <img src="https://img.shields.io/badge/CCNA-EF6E00?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </div>
 
 #### 🛠️ Tools & Version Control
