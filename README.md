@@ -6,9 +6,9 @@ majoring in AI. I build full-stack websites (front-end & back-end)
 and love exploring new technologies and security tools.
 </h3>
 
-<!-- <p align="center">
-  <a href="https://youssef-portfolio-pearl.vercel.app/" target="_blank">💻 Check out my portfolio</a>
-</p> -->
+<p align="center">
+  <a href="https://abdulkaderadnan.vercel.app/" target="_blank">💻 Check out my portfolio</a>
+</p>
 
 
 ### 💻 Skills & Technologies
