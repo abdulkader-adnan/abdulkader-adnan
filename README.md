@@ -77,7 +77,7 @@ My focus is on **backend development**, **AI**, and **network engineering**, com
 | 🎫 [**Bus Ticket System**](https://github.com/abdulkader-adnan/Bus-Ticket-Booking-System.git) | Route-based Java system with simulated payments and optimization. | Java |
 | 🌐 [**Enterprise Network Simulation**](https://github.com/abdulkader-adnan/Computer-Network-Project.git) | Enterprise setup with VLANs, OSPF, EIGRP, NAT, and VPN. | Cisco Packet Tracer |
 | 🔗 **URL Shortener** | C++ hash map–based shortener for efficient URL retrieval. | C++ |
-| 🤖 **AI Dataset Classification** | Machine learning classification using Orange Data Mining. | Orange |
+| 🤖 [**AI Dataset Classification**](https://github.com/abdulkader-adnan/SOC-Project.git) | Machine learning classification using Orange Data Mining. | Orange |
 | ⚙️ [**8-Bit Subtractor**](https://github.com/abdulkader-adnan/8-bit-Subtractor.git) | Designed and simulated using Boolean logic. | Digital Logic |
 | 🔢 [**Counting Numbers Without Consecutive Digits**](https://github.com/abdulkader-adnan/CountNumbersWithoutConsecutiveDigits.git) | C++ research comparing Brute Force vs Dynamic Programming. | C++ |
 | 🎓 [**MIU GPA Calculator**](https://github.com/abdulkader-adnan/miu-GPA-calculator.git) | Console app for GPA management (Admin/Student roles). | C++ |
