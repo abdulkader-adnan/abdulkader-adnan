@@ -1,28 +1,35 @@
-<h1 align="center">Hi 👋, I'm Abdulkader Adnan</h1>
-<h3 align="center">Full Stack Developer | AI Learner | Network Enthusiast</h3>
+<div align="center">
 
-<h4 align="center">
-🎓 3rd-Year Computer Science Student at Misr International University (MIU)  
-💡 Passionate about backend development, AI, and computer networks  
-🚀 Always eager to learn, build, and contribute to open-source projects
-</h4>
+# 🌟 Abdulkader Adnan  
+### _Building Ideas into Reality through Code_
+
+🎓 **3rd-Year Computer Science Student @ Misr International University (MIU)**  
+💻 **Full Stack Developer | AI Explorer | Network Enthusiast**  
+📍 Cairo, Egypt  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulkaderadnan.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulkader-adnan-262486349/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulkader2307019@miuegypt.edu.eg)
+
+</div>
 
 ---
 
-### 🧠 About Me
-- 📍 Based in **Cairo, Egypt**  
+## 🧭 About Me  
+I’m a passionate Computer Science student who loves turning ideas into functional software.  
+My focus is on **backend development**, **AI**, and **network engineering**, combining creativity and logic to solve real-world problems.  
+
 - 🎯 **GPA:** 3.66 / 4.00  
-- 💻 Interested in **Backend Development**, **Artificial Intelligence**, and **Network Engineering**  
-- 🧩 Currently improving my **portfolio** and **GitHub projects**  
-- 🏫 **Co-Assistant** in the Department of Computer Science (Fall 2024), helping first-year students with programming fundamentals  
-- 🏆 Participated in **ICPC ACPC Kickoff Contest (April 2025)**  
-- 🧑‍💻 Regular participant in **University Programming Club** workshops and coding challenges  
+- 🧩 Constantly improving my **portfolio** and **GitHub projects**  
+- 🏫 **Co-Assistant (Fall 2024)** — Helped first-year students learn programming fundamentals  
+- 🏆 **ICPC ECPC Qualifications Contest – August 2025**  
+- 💬 Active member in **University Programming Club** and coding challenges  
 
 ---
 
-### 💻 Skills & Technologies
+## ⚙️ Tech Stack  
 
-#### 🖥️ Programming Languages
+### 💻 Languages  
 <div>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -32,14 +39,14 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
-#### 🖥️ Frameworks & Libraries
+### 🧩 Frameworks & Libraries  
 <div>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
 
-#### 🗄️ Databases
+### 🗄️ Databases  
 <div>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -47,13 +54,13 @@
 <img src="https://img.shields.io/badge/XAMPP-FCB826?style=for-the-badge&logo=xampp&logoColor=white" />
 </div>
 
-#### 🌐 Networking & Security
+### 🌐 Networking & Security  
 <div>
 <img src="https://img.shields.io/badge/CCNA-EF6E00?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/Computer_Networks-0052CC?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
-#### 🛠️ Tools & Concepts
+### 🛠️ Tools & Concepts  
 <div>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -62,51 +69,31 @@
 
 ---
 
-### 🚀 Featured Projects  
+## 🚀 Projects Spotlight  
 
-- 🛒 [**Car Rental Website**](https://github.com/abdulkader-adnan/car-rental-website.git)  
-  *Technologies:* Node.js, MongoDB, HTML, CSS, JavaScript  
-  Developed a responsive full-stack web application for booking car rentals with an admin dashboard and database integration.
-
-- 🎫 **Bus Ticket System**  
-  *Technologies:* Java  
-  Created a route-based ticket booking system with simulated payments and optimized performance.
-
-- 🌐 **Enterprise Network Simulation**  
-  *Tools:* Cisco Packet Tracer, OSPF, EIGRP, DHCP, NAT, VPN  
-  Built a full enterprise network with routing, VLANs, NAT, and IPsec VPN connectivity.
-
-- 🔗 **URL Shortener**  
-  *Technologies:* C++  
-  Implemented a hash map–based service for shortening URLs with efficient retrieval.
-
-- 🤖 **AI Project – Dataset Classification**  
-  *Tools:* Orange Data Mining  
-  Used machine learning models to classify datasets and predict outcomes visually.
-
-- ⚙️ **8-Bit Subtractor**  
-  *Technologies:* Digital Logic  
-  Designed and simulated an 8-bit subtractor using Boolean algebra principles.
+| Project | Description | Technologies |
+|----------|--------------|---------------|
+| 🛒 [**Car Rental Website**](https://github.com/abdulkader-adnan/car-rental-website.git) | Full-stack car rental system with admin dashboard and database integration. | Node.js, MongoDB, HTML, CSS, JS |
+| 🎫 [**Bus Ticket System**](https://github.com/abdulkader-adnan/Bus-Ticket-Booking-System.git) | Route-based Java system with simulated payments and optimization. | Java |
+| 🌐 [**Enterprise Network Simulation**](https://github.com/abdulkader-adnan/Computer-Network-Project.git) | Enterprise setup with VLANs, OSPF, EIGRP, NAT, and VPN. | Cisco Packet Tracer |
+| 🔗 **URL Shortener** | C++ hash map–based shortener for efficient URL retrieval. | C++ |
+| 🤖 **AI Dataset Classification** | Machine learning classification using Orange Data Mining. | Orange |
+| ⚙️ **8-Bit Subtractor** | Designed and simulated using Boolean logic. | Digital Logic |
+| 🔢 [**Counting Numbers Without Consecutive Digits**](https://github.com/abdulkader-adnan/CountNumbersWithoutConsecutiveDigits.git) | C++ research comparing Brute Force vs Dynamic Programming. | C++ |
+| 🎓 [**MIU GPA Calculator**](https://github.com/abdulkader-adnan/miu-GPA-calculator.git) | Console app for GPA management (Admin/Student roles). | C++ |
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Insights  
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=abdulkader-adnan&show_icons=true&theme=radical&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkader-adnan&layout=compact&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abdulkader-adnan&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkader-adnan&layout=compact&theme=tokyonight" />
 </div>
 
 ---
 
-### 📫 Connect with Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/abdulkader-adnan-262486349/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:abdulkader2307019@miuegypt.edu.eg">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://abdulkaderadnan.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+
+### 💬 “Keep building. Keep learning. Keep growing.”  
+
 </div>
