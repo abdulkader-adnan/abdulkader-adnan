@@ -76,7 +76,7 @@ My focus is on **backend development**, **AI**, and **network engineering**, com
 | 🛒 [**Car Rental Website**](https://github.com/abdulkader-adnan/car-rental-website.git) | Full-stack car rental system with admin dashboard and database integration. | Node.js, MongoDB, HTML, CSS, JS |
 | 🎫 [**Bus Ticket System**](https://github.com/abdulkader-adnan/Bus-Ticket-Booking-System.git) | Route-based Java system with simulated payments and optimization. | Java |
 | 🌐 [**Enterprise Network Simulation**](https://github.com/abdulkader-adnan/Computer-Network-Project.git) | Enterprise setup with VLANs, OSPF, EIGRP, NAT, and VPN. | Cisco Packet Tracer |
-| 🔗 **URL Shortener** | C++ hash map–based shortener for efficient URL retrieval. | C++ |
+| 🔗 [**URL Shortener**](https://github.com/abdulkader-adnan/URL-Shortener-.git) | C++ hash map–based shortener for efficient URL retrieval. | C++ |
 | 🤖 [**AI Dataset Classification**](https://github.com/abdulkader-adnan/SOC-Project.git) | Machine learning classification using Orange Data Mining. | Orange |
 | ⚙️ [**8-Bit Subtractor**](https://github.com/abdulkader-adnan/8-bit-Subtractor.git) | Designed and simulated using Boolean logic. | Digital Logic |
 | 🔢 [**Counting Numbers Without Consecutive Digits**](https://github.com/abdulkader-adnan/CountNumbersWithoutConsecutiveDigits.git) | C++ research comparing Brute Force vs Dynamic Programming. | C++ |
