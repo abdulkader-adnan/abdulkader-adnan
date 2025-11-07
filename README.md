@@ -4,7 +4,7 @@
 ### _Building Ideas into Reality through Code_
 
 🎓 **3rd-Year Computer Science Student @ Misr International University (MIU)**  
-💻 **Full Stack Developer | AI Explorer | Network Enthusiast**  
+💻 **Full Stack Developer | AI Enthusiast | Network Explorer**  
 📍 Cairo, Egypt  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulkaderadnan.vercel.app/)
